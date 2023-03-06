@@ -8,7 +8,7 @@ public class CelsiusToFahrenheit {
         System.out.println("Введите температуру по шкале Цельсия: ");
 
         celsius = input.nextDouble();
-        fahrenheit = (9.0 / 5) * (celsius + 32);
+        fahrenheit = 9.0 / 5 * celsius + 32;
 
         System.out.println(celsius + " по шкале Цельсия равно " + fahrenheit + " градусов по Фаренгейту");
     }
