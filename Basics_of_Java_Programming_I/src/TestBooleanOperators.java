@@ -1,4 +1,10 @@
 import java.util.Scanner;
+    /*
+    Программа TestBooleanOperators проверяет, делится ли нацело число:
+        на 2 И на 3;
+        на 2 ИЛИ на 3;
+        на 2 ИЛИ на 3, но не на оба.
+     */
 
 public class TestBooleanOperators {
     public static void main(String[] args) {
