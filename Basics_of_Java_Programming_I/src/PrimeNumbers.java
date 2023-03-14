@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+    /*
+    Поиск простых чисел
+     */
+
 public class PrimeNumbers {
     public static void main(String[] args) {
         int x, i;
