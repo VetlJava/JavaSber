@@ -4,7 +4,7 @@
 # IntellijIdea files
 *.iml
 .idea
-out
+**/Basics_of_Java_Programming_I/out/
 
 # Log file
 *.log
