@@ -1,11 +1,13 @@
 # Compiled class file
 *.class
 
+# IntellijIdea files
+*.iml
+.idea
+out
+
 # Log file
 *.log
-Basics_of_Java_Programming_I/logs
-Basics_of_Java_Programming_I/out
-
 
 # BlueJ files
 *.ctxt
