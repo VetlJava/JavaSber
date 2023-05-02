@@ -5,6 +5,7 @@
 *.iml
 .idea
 out
+logs
 
 # Log file
 *logs
