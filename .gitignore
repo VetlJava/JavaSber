@@ -8,9 +8,7 @@ out
 
 
 # Log file
-*logs
-.logs
-logs
+*.logs
 
 # BlueJ files
 *.ctxt
