@@ -5,11 +5,12 @@
 *.iml
 .idea
 out
-logs
+
 
 # Log file
 *logs
-
+.logs
+logs
 
 # BlueJ files
 *.ctxt
